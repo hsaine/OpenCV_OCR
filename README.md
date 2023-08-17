@@ -1,4 +1,4 @@
-<h1> OpenCV and OCR for Parking Management.</h1>
+<h1  align="center"> OpenCV and OCR for Parking Management.</h1>
 
 <h1 align="center">Abstract</h1>
 The project aims to automate parking management by recording the entry and exit dates of vehicles. This is achieved using OpenCV and OCR (Optical Character Recognition) technology. With this approach, the system is able to scan the license plates of vehicles and read the
@@ -253,7 +253,9 @@ root.mainloop()
 
 ```
 <h1 align="center">Results</h1>
-
+<p align="center">
+  <img src="ocr-res.png" alt="Image 2" width="200">
+</p>
 <h1 align="center">GENERAL CONCLUSION</h1>
 
 In the scope of our vehicle license plate detection project, we have successfully developed a high-performance and accurate system through the utilization of advanced image processing and computer vision techniques. The primary goal was to automatically detect and recognize license plates from vehicle images.
