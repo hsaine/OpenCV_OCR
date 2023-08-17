@@ -254,7 +254,7 @@ root.mainloop()
 ```
 <h1 align="center">Results</h1>
 <p align="center">
-  <img src="ocr-res.png" alt="Image 2" width="400">
+  <img src="ocr-res.png" alt="Image 2">
 </p>
 <h1 align="center">GENERAL CONCLUSION</h1>
 
