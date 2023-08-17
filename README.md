@@ -54,7 +54,7 @@ The project will also focus on the flexibility and scalability of the system, ma
 In summary, the parking management project using OpenCV and OCR aims to automate and enhance parking management by harnessing the capabilities of computer vision and optical character recognition. Through this innovative solution, parking operators can benefit from more efficient management, increased accuracy, and an improved user experience.
 
 
-<h2></h2>
+<h2>Project Objectives</h2>
 <ul>
   <li>Automation of parking management</li>
   <li> Improvement of efficiency and speed</li>
