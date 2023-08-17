@@ -270,7 +270,12 @@ Our project has achieved success, demonstrating the efficiency and relevance of 
 
 In conclusion, our vehicle license plate detection project has highlighted the significance and benefits of employing advanced image processing and computer vision techniques. Through this system, we are capable of automating and facilitating license plate recognition, thus paving the way for numerous practical and promising applications across various domains.
 
-
+<h1 align="center">Team</h1>
+<ul>
+	<li> Ayoub Hsaine</li>
+	<li> Achraf Rachid</li>
+	<li> Ilhame Soufi</li>
+</ul>
 
 
 
